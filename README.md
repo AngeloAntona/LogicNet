@@ -26,8 +26,8 @@ Il sistema è stato testato attraverso simulazioni per verificare il corretto fu
 Il componente ha superato tutti i test effettuati, dimostrando l'affidabilità e l'efficacia dell'implementazione. Le sfide principali riguardavano la sincronizzazione tra i segnali, superate tramite un'accurata progettazione della FSM e l'uso di segnali interni per rappresentare le funzioni di lettura e gestione dello stato.
 
 ## File nel Repository
-- `RetiLogiche.vhd`: File principale che contiene l'implementazione del sistema.
-- `report.pdf`: Report dettagliato del progetto.
+- [RetiLogiche.vhd](RetiLogiche.vhd): File principale che contiene l'implementazione del sistema.
+- [report.pdf](report.pdf): Report dettagliato del progetto.
 
 ## Studente
 - **Nome**: Angelo Antona
